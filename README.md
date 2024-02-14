@@ -9,8 +9,8 @@ The dataset used in this analysis was retrieved from the following link: https:/
 Data available under CC0: Public Domain license.
 Precise info about the dataset can be found inside the notebook in the "Dataset description" paragraph.
 
-Further information were added about the city geospatial coordinates that were found at: https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/table/?disjunctive.cou_name_en&sort=name   
-Gespatial dataset was available under CC BY 4.0 DEED license.
+An additional dataset (geonames-all-cities-with-a-population-1000.csv) was used to add the city geospatial coordinates. It is publicly available at: https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/table/?disjunctive.cou_name_en&sort=name   
+Data available under CC BY 4.0 DEED license.
 
 #### Research question:
 Is it possible to predict houses' sale price through regression only by using online available data?
