@@ -1,10 +1,13 @@
 # Modena-House-Prices-Regression
 A ML Regression model to predict house prices in the Modena Province (Italy) relying on house sales websites data
 
+About the notebook (Modena_Province_House_Prices_Analysis.ipynb):
 This notebook was developed as part of the hand-on personal projects of IBM Machine Learning Professionnal Certificate course.
 
+About the dataset (modena_housing_data.csv):
 The dataset used in this analysis was retrieved from the following link: https://www.kaggle.com/datasets/albertostefani/modena-housing-price
 Data available under CC0: Public Domain license.
+Precise info about the dataset can be found inside the notebook in the "Dataset description" paragraph.
 
 Further information were added about the city geospatial coordinates that were found at: https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/table/?disjunctive.cou_name_en&sort=name   
 Gespatial dataset was available under CC BY 4.0 DEED license.
